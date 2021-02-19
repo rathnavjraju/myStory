@@ -1,2 +1,5 @@
 Man 1 and Man2 are friends.
 They knew each other for a very long time.
+
+**twist**
+MAn1 and Man2 were emenies.
